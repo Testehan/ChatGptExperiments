@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+#this is where one should define their API key
+/src/main/resources/secret.properties
+/target
+.idea
